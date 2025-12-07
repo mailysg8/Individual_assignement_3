@@ -6,3 +6,5 @@
 **.local/
 **.npm/
 /.quarto/
+
+**/*.quarto_ipynb
